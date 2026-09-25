@@ -41,7 +41,7 @@ I enjoy solving real-world problems by building intelligent software application
   - https://leetcode.com/u/varunan/
 
 - 🌐 Portfolio
-  - https://protfolio-varunan-a9bxgqn47-varunksm878-2344s-projects.vercel.app/
+  - https://protfolio-varunan.vercel.app/
 
 ---
 
